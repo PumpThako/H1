@@ -15,7 +15,7 @@
             height: 100vh;
             overflow: hidden;
             position: relative;
-        }
+        } 
 
         .code-background {
             position: absolute;
